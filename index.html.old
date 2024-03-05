@@ -38,8 +38,9 @@
 							<h2>Menu</h2>
 							<ul class="links">
 								<li><a href="index.html">Home</a></li>
-								<li><a href="#services">Services</a></li>
+								<li><a href="#wrapper">Services</a></li>
 								<li><a href="#footer">Contact</a></li>
+								<li><a href="about.html">About Us</a></li>
 							</ul>
 							<a href="#" class="close">Close</a>
 						</div>
@@ -48,10 +49,10 @@
 				<!-- Banner -->
 					<section id="banner">
 						<div class="inner">
-							<div class="logo"><img src="images/shumba-consulting-logo-md.png" alt="" height="150px"/></div>
+							<div class="logo"><img src="images/shumba-consulting-logo-md.png" alt="" height="150px"/></span></div>
 							<h2>SHUMBA Consulting</h2>
-							<p>With a core lens of diversity and inclusion, we work with organizations to develop and deliver engaging and impactful workplace education and management solutions. In our communities and today’s workplace, consistent and continuous education, training and policies that focus on diversity and inclusion awareness are essential for courageous organizations.</p>
 							<p><strong>Assess ~ Advise ~ Assist</strong></p>
+							<p>With a core lens of diversity and inclusion, we work with organizations to develop and deliver engaging and impactful workplace education and management solutions. In our communities and today’s workplace, consistent and continuous education, training and policies that focus on diversity and inclusion awareness are essential for courageous organizations.</p>
 						</div>
 					</section>
 
@@ -60,75 +61,52 @@
 					<section id="wrapper">
 
 						<!-- One -->
-						<section id="one" class="wrapper spotlight style1">
-							<div class="inner">
-								<a href="#" class="image"><img src="images/work.png" alt="" /></a>
-								<div class="content">
-									<h2 class="major">Our Work</h2>
-									<p>With a core lens of diversity and inclusion, we work with businesses, organizations and groups to develop and deliver engaging and impactful workplace education and management solutions.</p>
-									<!-- <a href="#" class="special">Learn more</a> -->
+							<section id="one" class="wrapper spotlight style1">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/workplace-sq.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Workplace Education</h2>
+										<p>We combine the needs assessment with our collaborative program design process to focus on articulating the objectives, determining the content, and identifying the optimal methods for communicating and delivering the content.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
 								</div>
-							</div>
-						</section>
+							</section>
 
-					<!-- Two -->
-						<section id="two" class="wrapper alt spotlight style2">
-							<div class="inner">
-								<a href="#" class="image"><img src="images/vision.png" alt="" /></a>
-								<div class="content">
-									<h2 class="major">Our Vision</h2>
-									<p>In our communities and today’s workplace, consistent and continuous education, training and policies that focus on diversity, equity and inclusion awareness are essential for courageous organizations.</p>
-									<!-- <a href="#" class="special">Learn more</a> -->
+						<!-- Two -->
+							<section id="two" class="wrapper alt spotlight style2">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/people-sq.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Awareness Workshops</h2>
+										<p>These workshops are each designed to provide an introduction and overview on topics related to diversity and inclusion in the workplace and community, as well as relevant legislation and national trends in order to keep your business diverse and thriving.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
 								</div>
-							</div>
-						</section>
+							</section>
 
-					<!-- Three -->
-						<section id="three" class="wrapper spotlight style3">
-							<div class="inner">
-								<a href="#" class="image"><img src="images/strategic-sq.jpg" alt="" /></a>
-								<div class="content">
-									<h2 class="major">Our Approach</h2>
-									<p>With an approach of assess, advise and assist, both Shumba Consulting and the client organization work collaboratively to determine the best fit in terms of service, scope, timeline, desired outcomes, future commitment and expectations.</p>
-									<!-- <a href="#" class="special">Learn more</a> -->
+						<!-- Three -->
+							<section id="three" class="wrapper spotlight style3">
+								<div class="inner">
+									<a href="#" class="image"><img src="images/strategic-sq.jpg" alt="" /></a>
+									<div class="content">
+										<h2 class="major">Strategic Planning</h2>
+										<p>Based on the organization's short and long-term goals around diversity and inclusion, we help devise a plan for company-wide strategies to make those goals a reality.</p>
+										<a href="#" class="special">Learn more</a>
+									</div>
 								</div>
-							</div>
-						</section>
+							</section>
 
-					<!-- Four -->
-						<section id="services" class="wrapper alt style1">
-							<div class="inner">
-								<!-- <a href="#" class="image"><img src="images/hands-sq.jpg" alt="" /></a> -->
-								<div class="content">
-									<h2 class="major">Our Services</h2>
-									<p>Shumba Consulting provides a number of services specific to the needs of the client at the time. They are divided into two areas.</p>
-									<section class="features">
-										<article>
-											<a href="education.html" class="image"><img src="images/6.png" alt="" /></a>
-											<h3 class="major">Education Services</h3>
-											<ul>
-												<li>Awareness Workshops</li>
-												<li>Workplace Education Program Review, Design and Delivery</li>
-												<li>Facilitation Services</li>
-											</ul>
-											<a href="education.html" class="special">Learn more</a>
-										</article>
-										<article>
-											<a href="management.html" class="image"><img src="images/8.png" alt="" /></a>
-											<h3 class="major">Management Solutions</h3>
-											<ul>
-												<li>Strategic Planning</li>
-												<li>Policy Review and Development</li>
-												<li>Employee Engagement</li>
-												<li>Project Management</li>
-											</ul>
-											<a href="management.html" class="special">Learn more</a>
-										</article>
-									</section>
-								</div>
-							</div>
-						</section>
-
+							<!-- Four -->
+								<section id="three" class="wrapper alt spotlight style4">
+									<div class="inner">
+										<a href="#" class="image"><img src="images/hands-sq.jpg" alt="" /></a>
+										<div class="content">
+											<h2 class="major">Employee Engagement</h2>
+											<p>Through negotiation and community engagement, we facilitate challenging discussions between employers and employees regarding the barriers impacting diversity and inclusion within their environment.</p>
+											<a href="#" class="special">Learn more</a>
+										</div>
+									</div>
+								</section>
 					</section>
 
 				<!-- Footer -->
@@ -178,7 +156,7 @@
 								<li class="icon brands fa-instagram"><a href="https://www.instagram.com/shumba_consulting1/">instagram.com/shumba_consulting1</a></li>
 							</ul>
 							<ul class="copyright">
-								<li>&copy; SHUMBA Consulting. All rights reserved.</a></li>
+								<li>&copy; SHUMBA Consulting</a></li>
 							</ul>
 						</div>
 					</section>
